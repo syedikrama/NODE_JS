@@ -10,7 +10,8 @@ let email_info = nodemailer.createTransport({
 })
 
 let email_body = {
-    // ------------ agr ziyada logon ko email bhejni ti {} mai bhejien gy ----------------
+    
+    // ------------ agr ziyada logon ko email bhejni tu [] mai bhejien gy ----------------
 
     // to : process.env.RECEIVER,
     // from: process.env.EMAIL,
