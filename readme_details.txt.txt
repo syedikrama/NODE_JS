@@ -14,4 +14,8 @@ npm i child_process => browser automatically on karny ky liye.
 
 node file ka naam => agr wahi file run krni hai server nahi bna hwa tu
 
-npm i nodemailer
+npm i nodemailer => agr email bhejni ho tu is ko run karien gy.
+
+npm install bcryptjs => ye password ko encrypt krny ky liye.
+
+npm install mongoose => mongodb sy connect krny ky liye.
